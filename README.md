@@ -18,7 +18,9 @@ Requirement:
 - Programming lanuage: python
 - Plot the results in matplotlib
 
+Experiment result
 
+![image](https://github.com/Jieeee/csmath/blob/master/result/01_figure.png)
 
 ## 02. PCA
 ## 03. MOG and EM
