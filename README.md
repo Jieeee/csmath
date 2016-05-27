@@ -8,7 +8,20 @@ This repository is used to accomplish my homework in math class.There are six fi
 - [05_svm.py](https://github.com/Jieeee/csmath/blob/brunch527/05_svm.py)
 - [final_project.py](https://github.com/Jieeee/csmath/blob/brunch527/final_project.py)
 
-## 01. curve fitting
-## 01. curve fitting
-## 01. curve fitting
-## 01. curve fitting
+## 01. Curve fitting
+Goal:
+
+Implement polynomial curve fitting in python.
+
+Requirement:
+
+- Programming lanuage: python
+- Plot the results in matplotlib
+
+
+
+## 02. PCA
+## 03. MOG and EM
+## 04. LM algorithm
+## 05. SVM
+##06. Final project
