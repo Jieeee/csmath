@@ -93,5 +93,5 @@ Main idea are detailed in the pdf file [final_project_report.pdf](https://github
 
 Experiment Result:
 
-![image](https://github.com/Jieeee/csmath/blob/master/result/test.png)
-![image](https://github.com/Jieeee/csmath/blob/master/result/result.png)
+![image](https://github.com/Jieeee/csmath/blob/master/result/test.jpg)
+![image](https://github.com/Jieeee/csmath/blob/master/result/result.jpg)
