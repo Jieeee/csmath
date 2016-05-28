@@ -20,13 +20,29 @@ Requirement:
 
 Experiment result:
 
-1.red points stand for 10 training data points generated from function f = sin(x)
-2.blue curve stands for the true function f = sin(x)
-3.red curve stands for the predicted curve
+- red points stand for 10 training data points generated from function f = sin(x)
+- blue curve stands for the true function f = sin(x)
+- red curve stands for the predicted curve
 
 ![image](https://github.com/Jieeee/csmath/blob/master/result/01_figure.png)
 
 ## 02. PCA
+Goal:
+
+Represent digits '3' in 2D
+- convert data from the UCI Optical Recognition of Handwritten Digits Data Set
+- perform PCA over all digit '3' with 2 components
+- plot the PCA results as below (also in page #12 of PCA)
+
+Requirements:
+
+- Programming lanuage: python
+- Plot the results in matplotlib
+
+Experiment result:
+
+![image](https://github.com/Jieeee/csmath/blob/master/result/pca_points.png)
+![image](https://github.com/Jieeee/csmath/blob/master/result/pca_result.png)
 ## 03. MOG and EM
 ## 04. LM algorithm
 ## 05. SVM
