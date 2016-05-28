@@ -18,7 +18,11 @@ Requirement:
 - Programming lanuage: python
 - Plot the results in matplotlib
 
-Experiment result
+Experiment result:
+
+1.red points stand for 10 training data points generated from function f = sin(x)
+2.blue curve stands for the true function f = sin(x)
+3.red curve stands for the predicted curve
 
 ![image](https://github.com/Jieeee/csmath/blob/master/result/01_figure.png)
 
