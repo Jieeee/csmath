@@ -7,6 +7,7 @@ This repository is used to accomplish my homework in math class.There are six fi
 - [04_lm.py](https://github.com/Jieeee/csmath/blob/master/04_lm.py)
 - [05_svm.py](https://github.com/Jieeee/csmath/blob/master/05_svm.py)
 - [final_project.py](https://github.com/Jieeee/csmath/blob/master/final_project.py)
+- [final_project_report.pdf](https://github.com/Jieeee/csmath/blob/master/final_project_report.pdf)
 
 ## 01. Curve fitting
 Goal:
@@ -89,3 +90,8 @@ Paper reading and implement:
 ICCV2015 [Fast and Effective L0 Gradient Minimization by Region Fusion](http://120.52.73.13/www.cv-foundation.org/openaccess/content_iccv_2015/papers/Nguyen_Fast_and_Effective_ICCV_2015_paper.pdf) by RMH Nguyen
 
 Main idea are detailed in the pdf file [final_project_report.pdf](https://github.com/Jieeee/csmath/blob/master/final_project_report.pdf)
+
+Experiment Result:
+
+![image](https://github.com/Jieeee/csmath/blob/master/result/test.png)
+![image](https://github.com/Jieeee/csmath/blob/master/result/result.png)
