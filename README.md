@@ -44,6 +44,43 @@ Experiment result:
 ![image](https://github.com/Jieeee/csmath/blob/master/result/pca_points.png)
 ![image](https://github.com/Jieeee/csmath/blob/master/result/pca_result.png)
 ## 03. MOG and EM
+Goal:
+
+implement MOG in 2D case
+
+- Generate 2D Gaussian distribution
+- E-M method
+
+Requirements
+
+- Programming lanuage: python
+- Plot the results in matplotlib
+
+Experiment result:
+
+![image](https://github.com/Jieeee/csmath/blob/master/result/em_points.png)
 ## 04. LM algorithm
+Goal:
+
+- Implement the Levenberg-Marquardt method
+
+Requirements:
+
+- Programming lanuage: python
 ## 05. SVM
+Goal:
+
+Implement (simplified) SVM method
+
+- input 2D data and their label (in two classes)
+- implement quadratic programming
+- output (and plot) classification results
+
+Requirements:
+
+- Programming lanuage: python
+- Plot the results in matplotlib
+
+
 ##06. Final project
+
