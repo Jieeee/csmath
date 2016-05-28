@@ -67,6 +67,7 @@ Goal:
 Requirements:
 
 - Programming lanuage: python
+
 ## 05. SVM
 Goal:
 
@@ -83,4 +84,8 @@ Requirements:
 
 
 ##06. Final project
+Paper reading and implement:
+ 
+ICCV2015 [Fast and Effective L0 Gradient Minimization by Region Fusion](http://120.52.73.13/www.cv-foundation.org/openaccess/content_iccv_2015/papers/Nguyen_Fast_and_Effective_ICCV_2015_paper.pdf) by RMH Nguyen
 
+Main idea are detailed in the pdf file [final_project_report.pdf](https://github.com/Jieeee/csmath/blob/master/final_project_report.pdf)
